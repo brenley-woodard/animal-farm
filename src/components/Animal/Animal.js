@@ -1,3 +1,7 @@
 export default function Animal() {
-  return <></>;
+  return (
+    <div className="name">
+      <img></img>
+    </div>
+  );
 }
